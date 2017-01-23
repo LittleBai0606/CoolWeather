@@ -138,7 +138,7 @@ public class ChooseAreaFragment extends Fragment {
         }
     }
     /*
-    查询选中省内所有的市，优先从数据库查询，如果没有查询到再去服务器上查询
+    查询选中省内所有的市，优先从数据库查询，如果没有9查询到再去服务器上查询
      */
     private void queryCities() {
         titileText.setText(selectedProvince.getProvinceName());
