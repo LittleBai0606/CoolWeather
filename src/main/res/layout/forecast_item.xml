@@ -37,6 +37,6 @@
         android:layout_gravity="center"
         android:layout_weight="1"
         android:gravity="right"
-        android:textColor="#fff "/>
+        android:textColor="#fff"/>
 
 </LinearLayout>
